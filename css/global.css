@@ -1,0 +1,38 @@
+:root {
+    --main-color: #ff305b;
+    --bg-color: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    height: 5000px;
+    background-color: #151515;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Exo 2", sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    padding-block: 50px;
+}
+
+p {
+    color: #c1c1c1;
+}
